@@ -1,0 +1,5 @@
+Fusion 360 : https://www.autodesk.com/fr/products/fusion-360/overview?term=1-YEAR&tab=subscription
+Blender 4.1.1 : https://download.blender.org/release/Blender4.1/
+Purref :https://www.pureref.com/download.php
+Keyshot: https://www.keyshot.com/fr/keyshot-studio-trial/
+Orca Slider : https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.1.1
