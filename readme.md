@@ -28,7 +28,7 @@
 - **Project 3: Advanced Bottle with Texture**
   - **Tools Covered**: Sketch, Revolve, Fillet, Shell, Appearance
   - **Description**: Design a symmetrical water bottle with texture using the Revolve tool and add thickness with Shell.
-  ![Description de l'image](./Session_1/Bottle/result/Bottle_v3.png")
+  ![Description de l'image](./Session_1/Bottle/result/Bottle_v3.png)
 
 
 ---
