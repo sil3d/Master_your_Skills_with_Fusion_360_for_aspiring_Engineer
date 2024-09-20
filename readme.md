@@ -18,7 +18,7 @@
 - **Project 1: Lego**
   - **Tools Covered**: Sketch, Pattern, Fillet, Extrude, Text
   - **Description**: Design a simple Lego using basic sketch and extrude tools.
-  ![Description de l'image](./Session 1/lego/result/Lego v7.png)
+  ![Description de l'image](./Session_1/lego/result/Lego_v7.png)
 
   
 - **Project 2: Pencil**
@@ -28,7 +28,7 @@
 - **Project 3: Advanced Bottle with Texture**
   - **Tools Covered**: Sketch, Revolve, Fillet, Shell, Appearance
   - **Description**: Design a symmetrical water bottle with texture using the Revolve tool and add thickness with Shell.
-  ![Description de l'image](./Session 1/Bottle/result/Bottle v3.png")
+  ![Description de l'image](./Session_1/Bottle/result/Bottle_v3.png")
 
 
 ---
