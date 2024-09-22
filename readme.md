@@ -11,6 +11,13 @@
 
 ---
 
+## Suivez ma playlist YouTube
+
+Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
+
+[![Ma playlist YouTube](https://img.youtube.com/vi/PLRg64EkfUKGbRzQ0FXw6-oKFTymzAaZ-a/0.jpg)](https://www.youtube.com/playlist?list=PLRg64EkfUKGbRzQ0FXw6-oKFTymzAaZ-a)
+
+
 ## Week 1: Beginner Projects
 *Focus on Basic Tools and Rendering*  
 **Date**: *09/21/2024*
