@@ -15,7 +15,7 @@
 
 Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
 
-[![Ma playlist YouTube](https://img.youtube.com/vi/PLRg64EkfUKGbRzQ0FXw6-oKFTymzAaZ-a/0.jpg)](https://www.youtube.com/playlist?list=PLRg64EkfUKGbRzQ0FXw6-oKFTymzAaZ-a)
+[![Ma playlist YouTube](https://img.youtube.com/vi/m69QYgQ9Qoo/0.jpg)](https://www.youtube.com/playlist?list=PLRg64EkfUKGbRzQ0FXw6-oKFTymzAaZ-a)
 
 
 ## Week 1: Beginner Projects
