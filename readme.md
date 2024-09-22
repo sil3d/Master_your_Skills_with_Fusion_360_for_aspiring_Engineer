@@ -98,5 +98,4 @@ Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
 - **Week 5+**: Focus on Animation and Rendering
 
 ---
-
-Feel free to add relevant images, code snippets, or links to enhance your README.
+Thanks --------------------------
