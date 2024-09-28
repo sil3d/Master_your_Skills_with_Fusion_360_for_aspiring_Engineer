@@ -51,7 +51,7 @@ Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
 - **Project 5: Spiral Vase**
   - **Tools Covered**: Coil, Thread, Fillet, Shell, Pattern
   - **Description**: Create a spiral vase using the Coil and Thread tools, with decoration using patterns.
-    ![Description de l'image](./Session_2/Bottle/result/TWIST_VASE_v2.png)
+    ![Description de l'image](./Session_2/Spiral_Vase/result/TWIST_VASE_v2.png)
 
 
 
