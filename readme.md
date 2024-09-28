@@ -31,6 +31,7 @@ Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
 - **Project 2: Pencil**
   - **Tools Covered**: Sketch, Revolve, Fillet, Appearance
   - **Description**: Create a pencil using the Revolve tool and apply details such as chamfers or fillets at the tip.
+   ![Description de l'image](./Session_1/pen/result/Untitled.png)
 
 - **Project 3: Advanced Bottle with Texture**
   - **Tools Covered**: Sketch, Revolve, Fillet, Shell, Appearance
