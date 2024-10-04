@@ -47,6 +47,7 @@ Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
 - **Project 4: Lounge Chair**
   - **Tools Covered**: Sketch, Sweep, Loft, Fillet, Mirror
   - **Description**: Design a lounge chair with organic curves using Loft and Sweep tools for smooth transitions.
+  ![Description de l'image](./Session_2/Lounge_Chair/large.jpeg)
 
 - **Project 5: Spiral Vase**
   - **Tools Covered**: Coil, Thread, Fillet, Shell, Pattern
