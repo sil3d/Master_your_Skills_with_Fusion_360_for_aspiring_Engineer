@@ -76,6 +76,7 @@ Découvrez ma série de tutoriels en vidéo pour apprendre Fusion 360 :
 - **Project 9: Threaded Bolt & Nut**
   - **Tools Covered**: Thread, Coil, Technical Drawing
   - **Description**: Create a threaded bolt and nut, and practice technical drawing.
+   ![Description de l'image](./Session_3/Bolt_and_nuts/bolt.jpeg)
 
 ---
 
